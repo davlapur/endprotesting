@@ -1,4 +1,4 @@
 # endprotesting
 test
-com.santaba
-com.logicmonitor
+\com.santaba
+\com.logicmonitor
